@@ -10,7 +10,7 @@ item:
   project_url: http://examplesite.com
   category: illustration
 - image: images/portfolio/item-5.png
-  project_url: ''
+  project_url: http://examplesite.com
   category: design
 - image: images/portfolio/item-8.png
   project_url: http://examplesite.com
